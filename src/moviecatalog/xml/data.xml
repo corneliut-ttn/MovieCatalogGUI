@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movieCatalog>
+    <colection>
+        <categories>Biography</categories>
+        <categories>Drama</categories>
+        <categories>Thriller</categories>
+        <imdbID>2084970</imdbID>
+        <launchDate>2015-01-25T00:00:00+02:00</launchDate>
+        <name>The Imitation Game</name>
+        <rating>8.2</rating>
+    </colection>
+    <colection>
+        <categories>Action</categories>
+        <categories>Drama</categories>
+        <categories>History</categories>
+        <imdbID>1034303</imdbID>
+        <launchDate>2008-02-16T00:00:00+02:00</launchDate>
+        <name>Defiance</name>
+        <rating>7.2</rating>
+    </colection>
+    <colection>
+        <categories>Crime</categories>
+        <categories>Drama</categories>
+        <imdbID>0111161</imdbID>
+        <launchDate>1994-11-14T00:00:00+02:00</launchDate>
+        <name>The Shawshank Redemption</name>
+        <rating>9.3</rating>
+    </colection>
+    <colection>
+        <categories>Crime</categories>
+        <categories>Drama</categories>
+        <imdbID>0068646</imdbID>
+        <launchDate>1972-04-24T00:00:00+02:00</launchDate>
+        <name>The Godfather</name>
+        <rating>9.2</rating>
+    </colection>
+    <colection>
+        <categories>Crime</categories>
+        <categories>Drama</categories>
+        <imdbID>0071562</imdbID>
+        <launchDate>1975-01-20T00:00:00+02:00</launchDate>
+        <name>The Godfather: Part II</name>
+        <rating>9.1</rating>
+    </colection>
+    <colection>
+        <categories>Action</categories>
+        <categories>Crime</categories>
+        <categories>Drama</categories>
+        <imdbID>0468569</imdbID>
+        <launchDate>2008-08-18T00:00:00+03:00</launchDate>
+        <name>The Dark Knight</name>
+        <rating>9.0</rating>
+    </colection>
+    <colection>
+        <categories>Crime</categories>
+        <categories>Drama</categories>
+        <categories>Thriller</categories>
+        <imdbID>0110912</imdbID>
+        <launchDate>1994-11-14T00:00:00+02:00</launchDate>
+        <name>Pulp Fiction</name>
+        <rating>7.2</rating>
+    </colection>
+    <colection>
+        <categories>Drama</categories>
+        <imdbID>0137523</imdbID>
+        <launchDate>1999-11-15T00:00:00+02:00</launchDate>
+        <name>Fight Club</name>
+        <rating>7.2</rating>
+    </colection>
+    <colection>
+        <categories>Biography</categories>
+        <categories>Drama</categories>
+        <categories>History</categories>
+        <imdbID>0108052</imdbID>
+        <launchDate>1993-03-04T00:00:00+02:00</launchDate>
+        <name>Schindler's List</name>
+        <rating>8.9</rating>
+    </colection>
+    <colection>
+        <categories>Adventure</categories>
+        <categories>Fantasy</categories>
+        <imdbID>0167260</imdbID>
+        <launchDate>2004-01-17T00:00:00+02:00</launchDate>
+        <name>The Lord of the Rings: The Return of the King</name>
+        <rating>8.9</rating>
+    </colection>
+    <colection>
+        <categories>Action</categories>
+        <categories>Adventure</categories>
+        <categories>Fantasy</categories>
+        <imdbID>0080684</imdbID>
+        <launchDate>1980-07-20T00:00:00+03:00</launchDate>
+        <name>Star Wars: Episode V - The Empire Strikes Back</name>
+        <rating>8.8</rating>
+    </colection>
+    <colection>
+        <categories>Comedy</categories>
+        <categories>Drama</categories>
+        <imdbID>1187043</imdbID>
+        <launchDate>2010-01-25T00:00:00+02:00</launchDate>
+        <name>3 Idiots</name>
+        <rating>8.5</rating>
+    </colection>
+    <colection>
+        <imdbID></imdbID>
+        <launchDate>2015-04-03T23:35:31.840+03:00</launchDate>
+        <name></name>
+        <rating>5.0</rating>
+    </colection>
+    <user>Victor</user>
+</movieCatalog>
